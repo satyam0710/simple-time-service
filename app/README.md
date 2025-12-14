@@ -70,7 +70,7 @@ docker push satyam0710/simple-time-service:latest
 ## Project Structure
 
 ```
-simple-time-service/
+app/
 ├── app.py              # Flask app
 ├── requirements.txt    # Dependencies
 ├── Dockerfile          # Docker config
