@@ -1,0 +1,16 @@
+# Local .terraform directories
+**/.terraform/*
+**/.terraform.*
+
+# .tfstate files
+*.tfstate
+**/*.tfstate
+*.tfstate.*
+**/*.tfstate.*
+
+# Ignore CLI configuration files
+.terraformrc
+**/.terraformrc
+terraform.rc
+**/terraform.rc
+.terraform
